@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v0ts/goit-js-hw-NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v0ts/goit-js-hw-NPM/issues"
+  },
+  "homepage": "https://github.com/v0ts/goit-js-hw-NPM#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
